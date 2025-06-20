@@ -1,6 +1,6 @@
 # Smart Reinforcement-Learning Agent for Stock Trading
 
-A Python-based deep reinforcement learning (RL) framework for automated stock trading. This project implements a custom OpenAI Gym environment, data processing pipeline, training scripts for RL agents, evaluation utilities, and a simple application interface to simulate trading on historical data.
+A Python-based deep reinforcement learning (RL) framework for automated stock trading. This project implements a custom OpenAI Gym environment, data processing pipeline, training scripts for RL agents, evaluation utilities, and a simple application interface using streamlit to simulate trading on historical data.
 
 ---
 
