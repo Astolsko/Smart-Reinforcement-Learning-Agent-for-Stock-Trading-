@@ -32,19 +32,3 @@ A Python-based deep reinforcement learning (RL) framework for automated stock tr
    git clone https://github.com/Astolsko/Smart-Reinforcement-Learning-Agent-for-Stock-Trading-.git
    cd Smart-Reinforcement-Learning-Agent-for-Stock-Trading-
 
-
-
-.
-├── app.py               # Interactive trading app
-├── bot.py               # RL training script
-├── data.py              # Data loading & preprocessing
-├── environment.py       # Custom OpenAI Gym env
-├── eval.py              # Evaluation & backtesting
-├── past_data.csv        # Full historical data
-├── train.csv            # Training split
-├── test.csv             # Testing split
-├── scaler.pkl           # Pickled feature scaler
-├── requirements.txt     # Python dependencies
-├── logs/                # Training logs (TensorBoard / CSV)
-├── saved_models/        # Checkpointed model files
-└── LICENSE              # Apache 2.0 License
